@@ -1,0 +1,58 @@
+a {
+  text-decoration: none;
+}
+.cite {
+  height: 40px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+  color: #626262;
+  /* identical to box height */
+}
+.head {
+  width: 64px;
+  height: 16px;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #b4ad9e;
+}
+.description {
+  height: 76px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #626262;
+}
+main {
+  width: 1200px;
+  height: 1543px;
+
+  background: #ffffff;
+}
+.nav {
+  max-width: 89px;
+  height: 19px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+}
+ul,
+li {
+  list-style: none;
+}
